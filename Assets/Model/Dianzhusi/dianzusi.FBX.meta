@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 42be9aef41eae6247a2b1aec1eb2cd0c
+timeCreated: 1528692498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: dianzusi(4gen)
+    100004: dizuo
+    100006: ge(heise)
+    100008: ge(hongse)
+    100010: meng(heise)
+    100012: meng(hongse)
+    100014: nie(heise)
+    100016: nie(hongse)
+    100018: Object002
+    100020: tong(heise)
+    100022: tong(hongse)
+    400000: //RootNode
+    400002: dianzusi(4gen)
+    400004: dizuo
+    400006: ge(heise)
+    400008: ge(hongse)
+    400010: meng(heise)
+    400012: meng(hongse)
+    400014: nie(heise)
+    400016: nie(hongse)
+    400018: Object002
+    400020: tong(heise)
+    400022: tong(hongse)
+    2300000: dianzusi(4gen)
+    2300002: dizuo
+    2300004: ge(heise)
+    2300006: ge(hongse)
+    2300008: meng(heise)
+    2300010: meng(hongse)
+    2300012: nie(heise)
+    2300014: nie(hongse)
+    2300016: Object002
+    2300018: tong(heise)
+    2300020: tong(hongse)
+    3300000: dianzusi(4gen)
+    3300002: dizuo
+    3300004: ge(heise)
+    3300006: ge(hongse)
+    3300008: meng(heise)
+    3300010: meng(hongse)
+    3300012: nie(heise)
+    3300014: nie(hongse)
+    3300016: Object002
+    3300018: tong(heise)
+    3300020: tong(hongse)
+    4300000: ge(hongse)
+    4300002: meng(hongse)
+    4300004: tong(hongse)
+    4300006: nie(hongse)
+    4300008: nie(heise)
+    4300010: ge(heise)
+    4300012: meng(heise)
+    4300014: dianzusi(4gen)
+    4300016: dizuo
+    4300018: Object002
+    4300020: tong(heise)
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #118'
+    second: {fileID: 2100000, guid: 0344bf7c4bbe14a48b21104563ddd6e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #120'
+    second: {fileID: 2100000, guid: 389455141b7d33b43aa4ae66cba9f665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #122'
+    second: {fileID: 2100000, guid: 8ea0908e1d46a6740a5f8591ee2e74f5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
